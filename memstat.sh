@@ -8,8 +8,8 @@
 # Also make sure you install bc command.
 
 
-Source : http://www.linoxide.com/linux-shell-script/linux-memory-usage-program/
-Parent : http://www.linoxide.com/guide/scripts-pdf.html
+#Source : http://www.linoxide.com/linux-shell-script/linux-memory-usage-program/
+#Parent : http://www.linoxide.com/guide/scripts-pdf.html
 
 # Make sure only root can run our script
 
